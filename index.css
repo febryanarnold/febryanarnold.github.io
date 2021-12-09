@@ -1,0 +1,197 @@
+#one {
+    margin:auto;
+    height:40px;
+    width: 100%;
+  background-color: rgb(255, 192, 0);
+  position: sticky;
+  
+}
+#one .satu{
+    padding-right:200px;
+}
+#one .satu li{
+ list-style-type: none;
+ float: right;
+}
+#one .satu p{
+    color: white;
+    display: inline-block;
+}
+#one .satu img{
+    padding-right: 10px;
+}
+#one .fb img{
+    width: 18px;
+    height: 20px;
+    padding-left:30px;
+    
+}
+#one .ig img{
+    width:20 px;
+    height:20px;
+}
+nav li {
+    float: left;
+    list-style-type: none;
+}
+
+nav li a{
+    display: inline-block;
+    color:#000000;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    opacity:0.9;
+    background-color: #f7f7f8;
+}
+nav li .bitmix{
+    padding-right: 700px;
+    padding-left:150px;
+}
+#main-footer{
+    background: url(repeat.png);
+    background-image: url(repeat.png);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    display: block;
+}
+.container {
+    width: 80%;
+    max-width: 1080px;
+    margin: auto;
+    text-align: left;
+    position: relative;
+}
+#footer-bottom {
+    background-color: rgba(0,0,0,0.32);
+    padding: 15px 0 5px;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    vertical-align: baseline;
+    background: transparent;
+
+}
+.kontak-widget {
+    list-style-type: none;
+    padding: 0;
+    margin: 16px 0 0;
+
+}
+.kontak-widget ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+div.et_pb_section.et_pb_section_2 {
+    background-image: url(https://bitmix.id/wp-content/uploads/2020/02/bg_visi_misi.jpg)!important;
+}
+.et_pb_section_1.et_pb_section, .et_pb_section_2.et_pb_section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.et_had_animation {
+    position: relative;
+}
+.et_pb_section {
+    padding: 50px 0;
+}
+.et_pb_section {
+    background-color: #fff;
+    background-position: 50%;
+    background-size: cover;
+    position: relative;
+    background-size: 100%;
+}
+.et_pb_all_tabs, .et_pb_module, .et_pb_posts_nav a, .et_pb_tab, .et_pb_with_background {
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+body {
+    font-family: Open Sans,Arial,sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #fff;
+    line-height: 1.7em;
+    font-weight: 500;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a, abbr, acronym, address, applet, b, big, blockquote, body, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, tt, u, ul, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+div {
+    display: block;
+}
+.et_pb_column {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.et_pb_column, .et_pb_row, .et_pb_row_inner {
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+.et_pb_css_mix_blend_mode_passthrough {
+    mix-blend-mode: unset!important;
+}
+.et_pb_text_2.et_pb_text {
+    color: #ffffff!important;
+}
+.et_pb_column .et_pb_module {
+    margin-bottom: 30px;
+}
+.et_pb_module.et_pb_text_align_left {
+    text-align: left;
+}
+.et_had_animation {
+    position: relative;
+}
+.et_pb_text {
+    word-wrap: break-word;
+}
+.et_pb_all_tabs, .et_pb_module, .et_pb_posts_nav a, .et_pb_tab, .et_pb_with_background {
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+.et_pb_row .et_pb_column,.et_pb_module:last-child{
+    margin-bottom: 0;
+}
+.et_pb_text_3.et_pb_text{
+    color: #000000!important
+}
+.et_pb_module.et_pb_text_align_left {
+    text-align: left;
+}
